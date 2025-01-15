@@ -11,17 +11,17 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 5px solid #000c07;
+    border: 4px solid #000c07;
     border-radius: 10px;
-    width:300px;
-    padding: 20px;
+    width:320px;
+    padding: 15px;
     background-color: gray;
    
 
 }
 input[type="text"] {
     width: 100%;
-    padding: 20px;
+    padding: 15px;
     box-sizing: border-box; 
    
 }
